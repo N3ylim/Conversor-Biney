@@ -11,6 +11,9 @@ O nome vem da junção de **bin**ário com o meu nome, Neylor
 
 <img width="573" height="563" alt="Captura de Tela 2026-08-30 às 18 28 21" src="https://github.com/user-attachments/assets/9b437dc7-d1bc-4586-9d75-70c671f7a78c" />
 
+<img width="713" height="820" alt="Captura de Tela 2026-08-30 às 18 27 57" src="https://github.com/user-attachments/assets/d564f351-a802-4d76-bc3c-c712b79e1896" />
+
+
 
 ## 📂 Estrutura do repositório
 Este repositório reúne três versões do mesmo projeto, cada uma com uma proposta diferente — por isso, cada pasta tem seu próprio README com detalhes específicos:
