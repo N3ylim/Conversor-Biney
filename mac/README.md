@@ -1,4 +1,4 @@
-# 🍎 Biney — macOS Edition
+#  Biney — macOS Edition
 
 ![Plataforma](https://img.shields.io/badge/plataforma-macOS-4f7d9c?style=flat-square)
 ![Linguagem](https://img.shields.io/badge/python-3.14-blue?style=flat-square)
@@ -12,7 +12,7 @@
 
 Diferente da versão Windows, esta pasta não inclui um executável pronto (`.app`) — apenas o **código-fonte completo**, para rodar diretamente com Python.
 
-## 🚀 Como rodar
+##  Como rodar
 
 ### Pré-requisitos
 
@@ -30,14 +30,14 @@ Na raiz do projeto:
 python3.14 main.py
 ```
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Conversão entre **binário, octal, decimal e hexadecimal**, em qualquer direção
 - Campos de resultado com botão de **copiar** individual por linha
 - **Modo Estudante**: janela separada que mostra o passo a passo do cálculo por trás de cada conversão
 - Paleta de cores neutra (cinza-azulado), definida antes da divisão em versões separadas para Windows e Mac
 
-## 🧠 Sobre o projeto
+##  Sobre o projeto
 
 Biney nasceu como um projeto acadêmico para reforçar dois conceitos ao mesmo tempo:
 
@@ -46,6 +46,6 @@ Biney nasceu como um projeto acadêmico para reforçar dois conceitos ao mesmo t
 
 Quer ver a versão mais atual e polida da interface? Confira a pasta [`windows/`](../windows). Quer só a lógica pura, sem interface nenhuma? Veja [`backend/`](../backend).
 
-## 👤 Autor
+##  Autor
 
 Neylor Cruz — [@N3ylim](https://github.com/N3ylim)
