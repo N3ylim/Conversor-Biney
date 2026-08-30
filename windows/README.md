@@ -1,4 +1,6 @@
-#  Biney — Windows Edition
+#  Biney — Windows Edition.  <img width="256" height="256" alt="icone" src="https://github.com/user-attachments/assets/234eea9d-aae8-4ba9-affe-b1a55a8d066b" />
+
+
 
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows-4f7d9c?style=flat-square)
 ![Linguagem](https://img.shields.io/badge/python-3.14-blue?style=flat-square)
