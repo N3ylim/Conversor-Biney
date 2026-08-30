@@ -9,11 +9,8 @@
 
 O nome vem da junção de **bin**ário com o meu nome, Neylor
 
-<p align="center">
-  <img src="mac/assets/screenshot-conversor.png" alt="Tela do Conversor de Números rodando no macOS, mostrando decimal 123 convertido para binário, octal e hexadecimal" width="600">
-  <br>
-  <em>Interface rodando no macOS — testada em MacBook</em>
-</p>
+<img width="573" height="563" alt="Captura de Tela 2026-08-30 às 18 28 21" src="https://github.com/user-attachments/assets/9b437dc7-d1bc-4586-9d75-70c671f7a78c" />
+
 
 ## 📂 Estrutura do repositório
 Este repositório reúne três versões do mesmo projeto, cada uma com uma proposta diferente — por isso, cada pasta tem seu próprio README com detalhes específicos:
@@ -32,7 +29,7 @@ Independente da pasta, todas as versões compartilham o mesmo design:
 
 As versões com interface gráfica (Windows e macOS) são só uma camada visual construída em cima dessa lógica de terminal.
 
-## 🎓 O diferencial: o programa ensina, não só converte
+##  O diferencial: o programa ensina, não só converte
 
 Esse é o ponto que separa as versões com interface das demais: Biney não entrega apenas o resultado, ele explica **como chegou nele**.
 
