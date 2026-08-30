@@ -1,6 +1,5 @@
-
+[README.md](https://github.com/user-attachments/files/31621758/README.md)
 #  Biney
-
 ![Linguagem](https://img.shields.io/badge/python-3-blue?style=flat-square)
 ![POO](https://img.shields.io/badge/paradigma-POO-4f7d9c?style=flat-square)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=flat-square)
@@ -9,8 +8,13 @@
 
 O nome vem da junção de **bin**ário com o meu nome, Neylor
 
-## 📂 Estrutura do repositório
+<p align="center">
+  <img src="mac/assets/screenshot-conversor.png" alt="Tela do Conversor de Números rodando no macOS, mostrando decimal 123 convertido para binário, octal e hexadecimal" width="600">
+  <br>
+  <em>Interface rodando no macOS — testada em MacBook</em>
+</p>
 
+## 📂 Estrutura do repositório
 Este repositório reúne três versões do mesmo projeto, cada uma com uma proposta diferente — por isso, cada pasta tem seu próprio README com detalhes específicos:
 
 | Pasta | O que é | Leia mais |
@@ -20,7 +24,6 @@ Este repositório reúne três versões do mesmo projeto, cada uma com uma propo
 |  [`backend/`](./backend) | O coração do projeto: lógica de conversão pura, em terminal, sem interface e sem dependências. Roda em qualquer sistema com Python. | [README](./backend/README.md) |
 
 ## A ideia por trás do projeto
-
 Independente da pasta, todas as versões compartilham o mesmo design:
 
 - **Composição em vez de herança**: uma classe `Numero` guarda o valor sempre em decimal — a referência única — e cada base numérica tem seu próprio `Conversor` (`ConversorBinario`, `ConversorOctal`, `ConversorHexadecimal`), responsável por `para_decimal()` e `de_decimal()`.
@@ -40,18 +43,10 @@ Nas versões Windows e macOS, o botão **"Entender o Cálculo (Passo a Passo)"**
 
 A ideia não é só resolver a conversão, mas mostrar o raciocínio por trás do Sistema de Numeração — o mesmo processo que qualquer pessoa faria no papel, só que automatizado e visualizado passo a passo. É o projeto tentando ensinar, e não só calcular.
 
-<p align="center">
-  <img src="mac/assets/screenshot-conversor.png" alt="Tela do Conversor de Números rodando no macOS, mostrando decimal 123 convertido para binário, octal e hexadecimal" width="600">
-  <br>
-  <em>Interface rodando no macOS — testada em MacBook</em>
-</p>
-
 ##  Por onde começar
-
 - Quer só usar o programa? Baixe o `.exe` em [`windows/`](./windows).
 - Está no Mac e quer rodar a partir do código? Veja [`mac/`](./mac).
 - Quer entender a lógica das conversões sem interface nenhuma no meio? Vá direto ao [`backend/`](./backend) — é a parte mais fiel ao que o projeto realmente ensina.
 
 ##  Autor
-
 Neylor Cruz — [@N3ylim](https://github.com/N3ylim)
