@@ -28,6 +28,24 @@ Independente da pasta, todas as versões compartilham o mesmo design:
 
 As versões com interface gráfica (Windows e macOS) são só uma camada visual construída em cima dessa lógica de terminal.
 
+## 🎓 O diferencial: o programa ensina, não só converte
+
+Esse é o ponto que separa as versões com interface das demais: Biney não entrega apenas o resultado, ele explica **como chegou nele**.
+
+Nas versões Windows e macOS, o botão **"Entender o Cálculo (Passo a Passo)"** abre uma explicação do algoritmo em ação — a mesma lógica que roda por trás dos panos em `de_decimal()`, só que exposta na tela em vez de ficar escondida:
+
+- o número é dividido sucessivamente pela base escolhida;
+- cada divisão mostra o **quociente** e o **resto**;
+- os restos vão sendo empilhados, de baixo para cima, até formar o resultado final na nova base.
+
+A ideia não é só resolver a conversão, mas mostrar o raciocínio por trás do Sistema de Numeração — o mesmo processo que qualquer pessoa faria no papel, só que automatizado e visualizado passo a passo. É o projeto tentando ensinar, e não só calcular.
+
+<p align="center">
+  <img src="mac/assets/screenshot-conversor.png" alt="Tela do Conversor de Números rodando no macOS, mostrando decimal 123 convertido para binário, octal e hexadecimal" width="600">
+  <br>
+  <em>Interface rodando no macOS — testada em MacBook</em>
+</p>
+
 ##  Por onde começar
 
 - Quer só usar o programa? Baixe o `.exe` em [`windows/`](./windows).
