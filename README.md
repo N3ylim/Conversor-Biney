@@ -1,5 +1,5 @@
 
-# 🔢 Biney
+#  Biney
 
 ![Linguagem](https://img.shields.io/badge/python-3-blue?style=flat-square)
 ![POO](https://img.shields.io/badge/paradigma-POO-4f7d9c?style=flat-square)
@@ -15,11 +15,11 @@ Este repositório reúne três versões do mesmo projeto, cada uma com uma propo
 
 | Pasta | O que é | Leia mais |
 |---|---|---|
-| 🪟 [`windows/`](./windows) | Versão com interface gráfica, empacotada em `.exe` com ícone próprio. A mais polida visualmente. | [README](./windows/README.md) |
-| 🍎 [`mac/`](./mac) | Código-fonte completo da interface gráfica original, sem executável. Congelada no ponto em que o foco de desenvolvimento migrou para o Windows. | [README](./mac/README.md) |
-| ⚙️ [`backend/`](./backend) | O coração do projeto: lógica de conversão pura, em terminal, sem interface e sem dependências. Roda em qualquer sistema com Python. | [README](./backend/README.md) |
+|  [`windows/`](./windows) | Versão com interface gráfica, empacotada em `.exe` com ícone próprio. A mais polida visualmente. | [README](./windows/README.md) |
+|  [`mac/`](./mac) | Código-fonte completo da interface gráfica original, sem executável. Congelada no ponto em que o foco de desenvolvimento migrou para o Windows. | [README](./mac/README.md) |
+|  [`backend/`](./backend) | O coração do projeto: lógica de conversão pura, em terminal, sem interface e sem dependências. Roda em qualquer sistema com Python. | [README](./backend/README.md) |
 
-## 🧠 A ideia por trás do projeto
+## A ideia por trás do projeto
 
 Independente da pasta, todas as versões compartilham o mesmo design:
 
@@ -28,12 +28,12 @@ Independente da pasta, todas as versões compartilham o mesmo design:
 
 As versões com interface gráfica (Windows e macOS) são só uma camada visual construída em cima dessa lógica de terminal.
 
-## 🚀 Por onde começar
+##  Por onde começar
 
 - Quer só usar o programa? Baixe o `.exe` em [`windows/`](./windows).
 - Está no Mac e quer rodar a partir do código? Veja [`mac/`](./mac).
 - Quer entender a lógica das conversões sem interface nenhuma no meio? Vá direto ao [`backend/`](./backend) — é a parte mais fiel ao que o projeto realmente ensina.
 
-## 👤 Autor
+##  Autor
 
 Neylor Cruz — [@N3ylim](https://github.com/N3ylim)
