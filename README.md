@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/31621758/README.md)
+
+
 #  Biney
 ![Linguagem](https://img.shields.io/badge/python-3-blue?style=flat-square)
 ![POO](https://img.shields.io/badge/paradigma-POO-4f7d9c?style=flat-square)
