@@ -7,7 +7,7 @@
 
 **Biney** é um conversor de números entre as bases **binária**, **octal**, **decimal** e **hexadecimal**, desenvolvido em Python. Nasceu como projeto acadêmico para praticar Programação Orientada a Objetos e Sistemas de Numeração ao mesmo tempo — sem depender de funções prontas da linguagem para fazer as conversões.
 
-O nome vem da junção de **bin**ário com... bem, o resto é estética. 😄
+O nome vem da junção de **bin**ário com o meu nome, Neylor
 
 ## 📂 Estrutura do repositório
 
