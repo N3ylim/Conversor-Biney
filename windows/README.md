@@ -6,7 +6,7 @@
 
 **Biney** é um conversor de bases numéricas (binário, octal, decimal e hexadecimal) com interface gráfica própria, feito do zero em Python. Esta pasta contém a versão empacotada para **Windows**, pronta para instalar e usar sem precisar de Python instalado.
 
-## 📥 Instalação
+## 📥  Instalação
 
 1. Baixe o executável `Biney.exe` disponível nesta pasta.
 2. Dê dois cliques para abrir — não é necessário instalar nada.
